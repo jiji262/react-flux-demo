@@ -1,9 +1,4 @@
+export const ADD_ITEM = "ADD_ITEM";
+export const REMOVE_ITEM = "REMOVE_ITEM";
 
-export const actionConstants = {
-  ADD_ITEM: "ADD_ITEM",
-  REMOVE_ITEM: "REMOVE_ITEM"
-};
-
-export const eventConstants = {
-  EVENT_CHANGE: "change"
-};
+export const EVENT_CHANGE = "change";
